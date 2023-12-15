@@ -1,4 +1,4 @@
-# pepse
+# Pepse
 
 2D Game that i have created as a game similar in his features to the Mario game. 
 The main idea behind this exercise is to get familiar with 2D Game Development and more Design Patterns as a main components in OOP. 
